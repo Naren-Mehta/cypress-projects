@@ -1,0 +1,18 @@
+
+
+# should run below command it to test Auth.cy.js 
+# npm run init (instead of npm install)
+# npm run dev (Normal run)
+# npm run test:open (it will clear the old Database it will point to test.db, seed-test.js)
+
+
+
+
+#  “Academind Community” on Discord: https://academind.com/community/
+
+# You find course resources (code snapshots & slides) on GitHub, in this repository:
+# https://github.com/academind/cypress-e2e-testing-course-resources
+
+# The folders in the code folder map to the different course sections.
+
+# The folders inside those subfolders represent individual code snapshots - e.g., the starting project code for a course section.
