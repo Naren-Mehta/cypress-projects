@@ -16,3 +16,9 @@
 # The folders in the code folder map to the different course sections.
 
 # The folders inside those subfolders represent individual code snapshots - e.g., the starting project code for a course section.
+
+# ============================Important===================================================
+# Online resources:
+
+# https://www.cypress.io/
+# https://github.com/cypress-io/cypress-realworld-app
